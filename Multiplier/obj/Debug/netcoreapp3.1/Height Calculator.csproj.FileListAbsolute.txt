@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Height Calculator\bin\Debug\netcoreapp3.1\Height Calculator.exe
+C:\Users\user\Desktop\Height Calculator\bin\Debug\netcoreapp3.1\Height Calculator.deps.json
+C:\Users\user\Desktop\Height Calculator\bin\Debug\netcoreapp3.1\Height Calculator.runtimeconfig.json
+C:\Users\user\Desktop\Height Calculator\bin\Debug\netcoreapp3.1\Height Calculator.runtimeconfig.dev.json
+C:\Users\user\Desktop\Height Calculator\bin\Debug\netcoreapp3.1\Height Calculator.dll
+C:\Users\user\Desktop\Height Calculator\bin\Debug\netcoreapp3.1\Height Calculator.pdb
+C:\Users\user\Desktop\Height Calculator\obj\Debug\netcoreapp3.1\Height Calculator.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Height Calculator\obj\Debug\netcoreapp3.1\Height Calculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Height Calculator\obj\Debug\netcoreapp3.1\Height Calculator.AssemblyInfo.cs
+C:\Users\user\Desktop\Height Calculator\obj\Debug\netcoreapp3.1\Height Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Height Calculator\obj\Debug\netcoreapp3.1\Height Calculator.dll
+C:\Users\user\Desktop\Height Calculator\obj\Debug\netcoreapp3.1\Height Calculator.pdb
+C:\Users\user\Desktop\Height Calculator\obj\Debug\netcoreapp3.1\Height Calculator.genruntimeconfig.cache
